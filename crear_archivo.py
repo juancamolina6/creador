@@ -18,9 +18,6 @@ def name_file():
         # file.write("    Entonces El archivo se carga al sistema\n")
     
 
-
-
-
 def run():
     name_file()
 
